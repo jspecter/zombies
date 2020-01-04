@@ -1,0 +1,55 @@
+
+fengmiansangshi.png
+size: 468,362
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hongguang
+  rotate: false
+  xy: 321, 34
+  size: 72, 46
+  orig: 72, 46
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 321, 128
+  size: 145, 232
+  orig: 145, 232
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 210, 2
+  size: 78, 109
+  orig: 78, 109
+  offset: 0, 0
+  index: -1
+yougebo
+  rotate: true
+  xy: 2, 50
+  size: 86, 206
+  orig: 86, 206
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 2, 277
+  size: 83, 317
+  orig: 83, 317
+  offset: 0, 0
+  index: -1
+zuogebo
+  rotate: true
+  xy: 210, 82
+  size: 44, 254
+  orig: 44, 254
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 2, 138
+  size: 137, 298
+  orig: 137, 298
+  offset: 0, 0
+  index: -1
