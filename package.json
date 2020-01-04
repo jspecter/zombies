@@ -1,0 +1,13 @@
+{
+  "name": "zombies",
+  "version": "1.0.0",
+  "description": "''\u001b[Dfeat zombies simple game'\u001b[C",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leslie Zhu",
+  "license": "ISC"
+}
